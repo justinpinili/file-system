@@ -67,3 +67,4 @@ I tried to adhere to the defined timeframe and requirements. Because this projec
 - For `merge` there could be a more elegant approach to merging child directories with colliding names (instead of just validating top level directory name)
 - The unit test DRYness could be improved (I focused more on refactoring the running code base vs. tests)
 - Write in TypeScript so we can properly define properties and variables
+- Proper error handling (vs. just using the console.log)
